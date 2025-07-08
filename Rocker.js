@@ -3,7 +3,7 @@ module.exports = {
   description: "Opera GX–style rocker gestures → simulate Alt+Left/Right in Discord desktop.",
   authors: [{ name: "EA", id: "742452943340699742" }],
   version: "1.0.0",
-
+ 
   start() {
     let leftDown = false, rightDown = false;
 
